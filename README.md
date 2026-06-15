@@ -20,10 +20,10 @@ Welcome to my GitHub! I'm a passionate **Web Developer**, **Frontend Developer**
 `HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `Bootstrap`
 
 **UI/UX Design**
-`Figma` `Wireframing` `Prototyping` `Responsive Design`
+`Figma` `Prototyping` `Responsive Design`
 
 **Other**
-`Git` `GitHub` `VS Code` `REST APIs`
+`Git` `GitHub` `VS Code`
 
 ---
 
@@ -40,7 +40,6 @@ Welcome to my GitHub! I'm a passionate **Web Developer**, **Frontend Developer**
 I'd love to hear from you — whether it's a project idea, a question, or just a friendly hello! 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
